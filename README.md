@@ -68,93 +68,93 @@ The following hosted platforms and managed cloud environments provide turnkey in
 
 The most active, highly-starred open-source repositories driving autonomous AI agents, semantic retrieval, and programmatic prompt engineering.
 
-> Sorted descending by **GitHub Star Count**. Click on any star badge to view stargazers.
+> Sorted descending by **GitHub Stars_Count**. Click on any Stars_Badge to view stargazers.
 
-### 1. 🤖 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) [![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)
+### 1. 🤖 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) [![GitHub_Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)
 - **License**: MIT | **Focus**: General Autonomous Agents & Agent Ecosystem
 - The pioneering open-source vision for autonomous agent execution. Provides modular agent components, execution benchmarking (agbenchmark), and a visual builder to create autonomous goal-oriented loops that iteratively think, plan, and execute tools.
 
-### 2. ⚡ [Dify](https://github.com/langgenius/dify) [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)
+### 2. ⚡ [Dify](https://github.com/langgenius/dify) [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)
 - **License**: Apache-2.0 (with conditions) | **Focus**: Agentic Workflows & Enterprise LLMOps Platform
 - A comprehensive open-source application development platform combining visual prompt engineering, multi-agent workflow choreography, enterprise RAG pipelines, data ingestion, and model management into a single unified self-hosted workspace.
 
-### 3. 🎨 [Langflow](https://github.com/langflow-ai/langflow) [![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)
+### 3. 🎨 [Langflow](https://github.com/langflow-ai/langflow) [![GitHub_Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)
 - **License**: MIT | **Focus**: Visual Multi-Agent & RAG Architecture
 - A dynamic, component-driven visual framework for building production agents and complex retrieval pipelines. Features drag-and-drop orchestration, live execution tracing, custom Python component authoring, and Model Context Protocol (MCP) server support.
 
-### 4. 🦜🔗 [LangChain](https://github.com/langchain-ai/langchain) [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)
+### 4. 🦜🔗 [LangChain](https://github.com/langchain-ai/langchain) [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)
 - **License**: MIT | **Focus**: Modular Agent Harness & Standard Application Scaffolding
 - The industry standard orchestration framework for LLM-powered software. Provides standardized abstractions for chat models, vector stores, prompt templates, tool binding, and middleware, backed by LangGraph for cyclical stateful agent workflows.
 
-### 5. 🏢 [MetaGPT](https://github.com/geekan/MetaGPT) [![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)
+### 5. 🏢 [MetaGPT](https://github.com/geekan/MetaGPT) [![GitHub_Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)
 - **License**: MIT | **Focus**: Multi-Agent Software Company Simulation
 - Multi-agent collaboration framework that models human software organizations. Assigns structured Standard Operating Procedures (SOPs) to simulated product managers, architects, engineers, and QA analysts to generate entire codebases from natural language specs.
 
-### 6. 🛡️ [Strix](https://github.com/usestrix/strix) [![GitHub stars](https://img.shields.io/github/stars/usestrix/strix?style=social&color=white)](https://github.com/usestrix/strix/stargazers)
+### 6. 🛡️ [Strix](https://github.com/usestrix/strix) [![GitHub_Stars](https://img.shields.io/github/stars/usestrix/strix?style=social&color=white)](https://github.com/usestrix/strix/stargazers)
 - **License**: Apache-2.0 | **Focus**: Autonomous AI Penetration Testing & Vulnerability Remediation
 - An autonomous AI security framework employing a Graph of Agents (GoA) architecture. Features parallel security testing with full hacker toolkits (HTTP proxies, browser automation, Docker runtimes) that validate real exploits with PoCs and generate automated remediation fixes.
 
-### 7. 🤝 [AutoGen](https://github.com/microsoft/autogen) [![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)
+### 7. 🤝 [AutoGen](https://github.com/microsoft/autogen) [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)
 - **License**: MIT | **Focus**: Conversational Multi-Agent Orchestration
 - Microsoft's flagship multi-agent framework enabling complex multi-turn conversational agents with code execution, nested chats, group chats, and human-in-the-loop controls. Designed for flexible cooperative workflows across autonomous entities.
 
-### 8. 👥 [CrewAI](https://github.com/crewAIInc/crewAI) [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)
+### 8. 👥 [CrewAI](https://github.com/crewAIInc/crewAI) [![GitHub_Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)
 - **License**: MIT | **Focus**: Role-Based Autonomous Agent Collaboration
 - High-level multi-agent framework engineered for intuitive role-playing. Define agents with dedicated roles, goals, backstories, memory, and tool sets, and coordinate them sequentially or hierarchically into production task forces.
 
-### 9. 🧩 [Flowise](https://github.com/FlowiseAI/Flowise) [![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)
+### 9. 🧩 [Flowise](https://github.com/FlowiseAI/Flowise) [![GitHub_Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)
 - **License**: Apache-2.0 | **Focus**: Drag-and-Drop Low-Code LLM App Builder
 - Node-based open-source visual interface built with Node.js and TypeScript. Enables developers and business teams to visually wire together LangChain nodes, embedding models, vector stores, and custom webhooks into deployable REST endpoints.
 
-### 10. 🦙 [LlamaIndex](https://github.com/run-llama/llama_index) [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)
+### 10. 🦙 [LlamaIndex](https://github.com/run-llama/llama_index) [![GitHub_Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)
 - **License**: MIT | **Focus**: Context Engineering, Data Ingestion & Enterprise RAG
 - The premier data framework for connecting custom enterprise data to LLMs. Features 300+ data connectors, advanced chunking algorithms, hierarchical indexing, query engines, and agentic retrieval strategies.
 
-### 11. 🚀 [Agno](https://github.com/agno-agi/agno) [![GitHub stars](https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white)](https://github.com/agno-agi/agno/stargazers)
+### 11. 🚀 [Agno](https://github.com/agno-agi/agno) [![GitHub_Stars](https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white)](https://github.com/agno-agi/agno/stargazers)
 - **License**: Apache-2.0 | **Focus**: Lightweight Full-Stack Multimodal Agents
 - High-performance, lightweight Python framework (formerly Phidata) for building multimodal agents equipped with memory, knowledge, and tools. Optimized for low latency, zero bloat, and enterprise PostgreSQL storage.
 
-### 12. 🔬 [DSPy](https://github.com/stanfordnlp/dspy) [![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white)](https://github.com/stanfordnlp/dspy/stargazers)
+### 12. 🔬 [DSPy](https://github.com/stanfordnlp/dspy) [![GitHub_Stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white)](https://github.com/stanfordnlp/dspy/stargazers)
 - **License**: MIT | **Focus**: Programmatic LLM Compilation & Prompt Optimization
 - Stanford's academic framework that replaces brittle manual prompt engineering with programming. Deconstructs applications into modular signatures and optimizers (teleprompters) that automatically synthesize and compile optimal prompts and model weights.
 
-### 13. 💬 [ChatDev](https://github.com/OpenBMB/ChatDev) [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)
+### 13. 💬 [ChatDev](https://github.com/OpenBMB/ChatDev) [![GitHub_Stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)
 - **License**: Apache-2.0 | **Focus**: Virtual Chat-Powered Multi-Agent Software Development
 - Multi-agent framework where specialized conversational agents communicate in chat chains to design, code, test, and document software applications from single prompt descriptions.
 
-### 14. 🤗 [smolagents](https://github.com/huggingface/smolagents) [![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers)
+### 14. 🤗 [smolagents](https://github.com/huggingface/smolagents) [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers)
 - **License**: Apache-2.0 | **Focus**: Barebones Python Code-Execution Agents
 - Hugging Face's minimalist library where agents formulate actions by writing plain Python code rather than JSON payloads. Highly ergonomic, lightweight, and tightly integrated with the Hugging Face Hub.
 
-### 15. 🧠 [Semantic Kernel](https://github.com/microsoft/semantic-kernel) [![GitHub stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white)](https://github.com/microsoft/semantic-kernel/stargazers)
+### 15. 🧠 [Semantic Kernel](https://github.com/microsoft/semantic-kernel) [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white)](https://github.com/microsoft/semantic-kernel/stargazers)
 - **License**: MIT | **Focus**: Polyglot Enterprise SDK (C#, Python, Java)
 - Microsoft's enterprise orchestration SDK underpinning Copilot. Unifies native code plugins, AI memories, and automated planning into strongly typed contracts across .NET, Python, and Java environments.
 
-### 16. 🔺 [Vercel AI SDK](https://github.com/vercel/ai) [![GitHub stars](https://img.shields.io/github/stars/vercel/ai?style=social&color=white)](https://github.com/vercel/ai/stargazers)
+### 16. 🔺 [Vercel AI SDK](https://github.com/vercel/ai) [![GitHub_Stars](https://img.shields.io/github/stars/vercel/ai?style=social&color=white)](https://github.com/vercel/ai/stargazers)
 - **License**: Apache-2.0 | **Focus**: TypeScript Toolkit for Generative UI & Streaming
 - The definitive TypeScript/Node.js library for building streaming AI interfaces in Next.js, React, Svelte, and Vue. Features unified provider adapters, tool calling, and structured object generation.
 
-### 17. 🌾 [Haystack](https://github.com/deepset-ai/haystack) [![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)
+### 17. 🌾 [Haystack](https://github.com/deepset-ai/haystack) [![GitHub_Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)
 - **License**: Apache-2.0 | **Focus**: Modular End-to-End Search & RAG Pipelines
 - Deepset's production-proven framework for building search and question-answering systems. Features a directed acyclic graph (DAG) pipeline architecture, explicit routing nodes, and modular document stores.
 
-### 18. 💾 [Letta](https://github.com/letta-ai/letta) [![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)
+### 18. 💾 [Letta](https://github.com/letta-ai/letta) [![GitHub_Stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)
 - **License**: Apache-2.0 | **Focus**: Stateful Agents & Long-Term Memory Architecture
 - Formerly MemGPT, Letta introduces operating-system-style hierarchical memory tiers (working context vs archival storage) to enable persistent, self-updating agents that preserve identity and knowledge over long horizons.
 
-### 19. 🐝 [OpenAI Swarm](https://github.com/openai/swarm) [![GitHub stars](https://img.shields.io/github/stars/openai/swarm?style=social&color=white)](https://github.com/openai/swarm/stargazers)
+### 19. 🐝 [OpenAI Swarm](https://github.com/openai/swarm) [![GitHub_Stars](https://img.shields.io/github/stars/openai/swarm?style=social&color=white)](https://github.com/openai/swarm/stargazers)
 - **License**: MIT | **Focus**: Ergonomic & Educational Multi-Agent Orchestration
 - An experimental, lightweight pattern exploration from the OpenAI Solutions team illustrating agent handoffs, isolated routines, and stateless execution flow without heavy runtime dependencies.
 
-### 20. 🛡️ [Pydantic AI](https://github.com/pydantic/pydantic-ai) [![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&color=white)](https://github.com/pydantic/pydantic-ai/stargazers)
+### 20. 🛡️ [Pydantic AI](https://github.com/pydantic/pydantic-ai) [![GitHub_Stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&color=white)](https://github.com/pydantic/pydantic-ai/stargazers)
 - **License**: MIT | **Focus**: Type-Safe Agent Framework with Dependency Injection
 - Developed by the creators of Pydantic. Delivers end-to-end static type validation for agent systems, robust structured outputs, runtime dependency injection, and seamless IDE completions.
 
-### 21. 📐 [Instructor](https://github.com/instructor-ai/instructor) [![GitHub stars](https://img.shields.io/github/stars/instructor-ai/instructor?style=social&color=white)](https://github.com/instructor-ai/instructor/stargazers)
+### 21. 📐 [Instructor](https://github.com/instructor-ai/instructor) [![GitHub_Stars](https://img.shields.io/github/stars/instructor-ai/instructor?style=social&color=white)](https://github.com/instructor-ai/instructor/stargazers)
 - **License**: MIT | **Focus**: Structured LLM Outputs & Schema Validation
 - The standard library for extracting structured, validated data from LLMs via function/tool calling. Automatically retries schema mismatches, validates constraints, and pairs seamlessly with Pydantic.
 
-### 22. 🔄 [Prompt Flow](https://github.com/microsoft/promptflow) [![GitHub stars](https://img.shields.io/github/stars/microsoft/promptflow?style=social&color=white)](https://github.com/microsoft/promptflow/stargazers)
+### 22. 🔄 [Prompt Flow](https://github.com/microsoft/promptflow) [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/promptflow?style=social&color=white)](https://github.com/microsoft/promptflow/stargazers)
 - **License**: MIT | **Focus**: LLM Application Prototyping, Evaluation & CI/CD
 - Microsoft's suite of development tools designed to streamline prompt engineering, interactive debugging, quantitative batch evaluation, and deployment of enterprise LLM workflows.
 
